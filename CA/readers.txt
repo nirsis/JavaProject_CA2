@@ -1,0 +1,10 @@
+1,Jeronimo,Ferraro,jeronimo@mail.com,0
+2,Jose,Munoz,jose@mail.com,2
+3,Mario,Casas,mario@mail.com,1
+4,Arnaldo,Otegi,arnaldo@mail.com,0
+5,Isabel,Ayuso,isa@mail.com,2
+6,Laura,Maite,laura@mail.com,3
+7,Anna,Fomicheva,anna@mail.com,4
+8,Sam,Morril,sam@mail.com,0
+9,Antonio,Yuste,antonio@mail.com,1
+10,Last,Entry,lastentry@mail.com,5
